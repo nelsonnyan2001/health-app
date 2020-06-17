@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 node_modules/**/*
-=======
-node_modules/**/*
->>>>>>> b06c88cf4d95cdf65d22f230a9af904b740cc445
+database/firebase_config.js
