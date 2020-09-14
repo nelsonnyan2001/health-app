@@ -49,8 +49,7 @@
     "react-native-modal-datetime-picker": "^7.6.1",
     "react-native-percentage-circle": "^1.0.7",
     "react-native-reanimated": "~1.13.0",
-    "react-native-status-bar-height": "^2.4.0",
-    "react-native-svg": "^10.0.0",
+    "react-native-status-bar-height": "^2.4.0
     "react-native-web": "^0.13.8",
     "react-navigation": "^4.0.3",
     "react-navigation-stack": "^1.5.5",
